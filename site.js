@@ -1,0 +1,1 @@
+alert('goku fume vegeta')

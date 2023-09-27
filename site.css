@@ -1,0 +1,999 @@
+*{
+ margin:0%   
+}
+header{
+    background-color: rgb(198 216 231);
+    font-size: 16px;
+    width: 1520px;
+    font-weight: bold;
+    height: 339px;
+}
+header nav{
+    position: relative;
+    text-align: end;
+    display: flex;
+    right: 0cm;
+    top: 35px;
+    font-size: 25px;
+    justify-content: space-around;
+}
+
+   .headerlogo{background-color: #bfaeae00;
+    background-image: url(footer_logo.png);
+    background-size: cover;
+    height: 75px;
+    position: relative;
+    top: 65%;
+    left: 6.8cm;
+    width: 23%;
+   }
+
+           
+           
+
+.headerimage {
+    background-color: black;
+    height: 475px;
+    position: relative;
+    top: 230px;
+    background-image: url(main_banner.jpg);
+    background-size: cover;
+}
+     
+
+.best{
+position: relative;
+    color: white;
+    font-size: 55px;
+    left: 255px;
+    bottom: 3cm;
+    
+}
+
+.Suspendise {
+    position: relative;
+    color: white;
+    font-size: 25px;
+    left: 255px;
+    bottom: 2.5cm;
+}
+
+.headerCarre{
+    position: relative;
+    background-color: blue;
+    width: 135px;
+    padding: 15px 10px;
+    /* height: 44px; */
+    bottom: 77px;
+    left: 6.8cm;
+    text-align: center;
+    color: white;
+}
+                  
+
+section {
+    display: inline-flex;
+    position: relative;
+    height: 58px;
+    top: 10.2cm;
+    left: 6.8cm;
+    width: 742px;
+    background-color: white;
+}
+
+           section nav{ 
+            font-size: 25px;
+           }     
+
+.Search {
+    position: relative;
+    top: 21px;
+    opacity: 0.8;
+    color: white;
+    background-color: blue;
+    padding: 5px 15px;
+    left: 127px;
+}
+.select{
+    position: relative;
+    left: 102px;
+    top: 21px;
+    opacity: 0.8;
+}
+.type{
+    opacity: 0.8;
+    position: relative;
+    left: 65px;
+    top: 21px;
+}
+.Your
+{position: relative;
+    top: 21px;
+    left: 13px;
+    opacity: 0.8;
+    
+}
+
+
+.ligne{
+    position: relative;
+    background-color: #05050547;
+    height: 60px;
+    width: 3px;
+    left: 10.8cm;
+    top: 8.7cm;
+}
+.ligne2{
+    position: relative;
+    background-color: #0808084d;
+    height: 60px;
+    width: 3px;
+    left: 16.1cm;
+    top: 7.09cm;
+}
+.ligne3{
+    position: relative;
+    background-color: #1c1b1b66;
+    height: 60px;
+    width: 3px;
+    left: 21.3cm;
+    top: 5.52cm;
+}
+
+main{
+    background-color: rgb(255, 255, 255);
+    width: 1520px;
+    margin-top: 69px;
+    height: 3804px;
+}
+
+main p {
+    text-align: center;
+}
+
+
+
+.popular{
+    position: relative;
+    font-size: 26px;
+    color: rgb(45, 45, 156);
+    top: 186px;
+   
+    text-align: center;
+}
+
+
+
+.Integer {
+    position: relative;
+    font-size: 28px;
+    font-weight: 600;
+    color: rgb(0 0 0);
+    top: 196px;
+    
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.caree{
+    position: relative;
+    left: 37px;
+   
+   
+}
+
+
+
+
+                .caree1 {
+                    position: relative;
+    background-color: black;
+    height: 275px;
+    top: 231px;
+    left: 2cm;
+    width: 250px;
+    background-image: url(Screenshot\ 2023-09-26\ 045136.png);
+    background-size: cover;
+                }
+
+
+                .caree2{
+                    position: relative;
+    background-color: black;
+    height: 275px;
+    left: 9cm;
+    bottom: 1.2cm;
+    width: 248px;
+    background-image: url(Screenshot\ 2023-09-26\ 045632.png);
+    background-size: cover;   
+                }
+
+                .caree3{
+                    position: relative;
+    background-color: black;
+    height: 275px;
+    left: 16cm;
+    bottom: 8.5cm;
+    width: 248px;
+    background-image: url(Screenshot\ 2023-09-26\ 045653.png);
+    background-size: cover;
+                }
+
+
+                    .caree4{
+                        position: relative;
+                        background-color: black;
+                        height: 275px;
+                        left: 23cm;
+                        bottom: 15.8cm;
+                        width: 248px;
+                        background-image: url(Screenshot\ 2023-09-26\ 045720.png);
+                        background-size: cover;
+                    }
+
+                    .caree5{
+                        position: relative;
+                        background-color: rgb(152, 25, 25);
+                        height: 275px;
+                        left: 30cm;
+                        bottom: 23.1cm;
+                        width: 248px;
+                        background-image: url(Screenshot\ 2023-09-26\ 045736.png);
+                        background-size: cover;
+                    }
+
+                  
+
+
+
+
+
+
+                    .featured1{
+                        background-color: black;
+                        background-image: url(site.css);
+                        background-size: cover;
+                        height: 253px;
+                        left: 6cm;
+                        bottom: 18cm;
+                        width: 317px;
+                        position: relative;
+                        background-image: url(featured_item_1.jpg);
+                        background-size: contain;
+                    }
+
+                    .featured2{
+                        background-color: rgb(178, 51, 51);
+                        background-image: url(site.css);
+                        background-size: cover;
+                        height: 261px;
+                        left: 15.99cm;
+                        bottom: 24.7cm;
+                        width: 317px;
+                        position: relative;
+                        background-image: url(featured_item_2.jpg);
+                        background-size: cover; ;
+                    }
+
+                .featured3{
+                    background-color: rgb(53, 171, 86);
+                    background-image: url(site.css);
+                    background-size: cover;
+                    height: 253px;
+                    left: 26cm;
+                    bottom: 31.65cm;
+                    width: 317px;
+                    position: relative;
+                    background-image: url(featured_item_3.jpg);
+                    background-size: cover;
+                }
+
+
+
+                .featuredText{
+                    display: flex;
+    flex-direction: column;
+    background-color: white;
+    position: relative;
+    border-style: ridge;
+    bottom: 31.6cm;
+    width: 312px;
+    left: 6cm;
+    height: 226px;
+                }
+                         .Lorem{
+             position: relative;
+            font-size: 30px;
+            left: 26px;
+            font-weight: 900;
+
+                            }
+                                            .Categorie{
+                                                color: blue;
+                                                position: relative;
+                                                left: 24px;
+                                                top: 10px;
+                                                font-size: 26px;
+                                            }
+                                            
+
+                                                    .Vestibulum{ 
+                                                        position: relative;
+                                                         top: 23px;
+                                                    }
+
+
+                .featuredText2{
+                    height: 217px;
+    width: 313px;
+    left: 16cm;
+    bottom: 37.6cm;
+    
+    border-style: ridge;
+    position: relative;
+    background-color: white;
+                }
+                        
+                   .Nullan { position: relative;
+                    font-size: 30px;
+                    left: 26px;
+                    font-weight: 900;}
+                                       .Categorie2{
+                                        color: blue;
+                                        position: relative;
+                                        top: -15px;
+                                        left: 27px;
+                                        font-size: 26px; }
+                                                            .Mauris{
+                                                                position: relative;
+                                                                left: 9px;
+                                                            }
+
+
+
+
+
+
+
+
+
+                .featuredTeext3{        
+                    background-color: rgb(233 233 233);
+                    position: relative;
+                    bottom: 43.7cm;
+                    border-style: ridge;
+                    background-color: white;
+                    height: 224px;
+                    width: 312px;
+                    left: 26cm;
+                }
+                
+
+                                .Categorie3{
+                                    position: relative;
+                                         bottom: 4px;
+                                         color: blue;
+                                     left: 10px;
+                                    font-size: 25px;
+                                }
+                    .suspendise{
+                        color: black;
+                        top: 9px;
+                        position: relative;
+                        left: 0px;
+                        font-size: 30px;
+                        font-weight: 900;
+                    }
+
+                  
+
+                
+
+
+
+
+
+
+
+body{
+    max-height: 1600px;
+    
+    background-color: rgb(248, 240, 240);
+}
+
+
+
+
+
+
+
+.Oservices{
+    color: blue;
+    font-size: 25px;
+    text-align: center;
+    bottom: 42cm;
+    left: 690px;
+    position: relative;
+
+}
+      
+
+
+.ServiceTemplates {
+    font-size: 30px;
+    text-align: center;
+    bottom: 41cm;
+    left: 503px;
+    position: relative;
+
+}
+
+
+
+.ServiceCarre{
+    position: relative;
+    right: 2cm;
+}
+
+
+.ServiceCarre1 {
+    position: relative;
+    background-color: white;
+    height: 310px;
+    left: 234px;
+    bottom: 40cm;
+    width: 372px;
+    border-style: ridge;
+}
+
+.ServiceCarre2 {
+    position: relative;
+    background-color: white;
+    height: 310px;
+    border-style: ridge;
+    left: 658px;
+    bottom: 48.3cm;
+    width: 380px;
+}
+
+    .ServiceCarre3 {
+        position: relative;
+        border-style: ridge;
+        background-color: white;
+        height: 310px;
+        left: 1094px;
+        bottom: 56.6cm;
+        width: 392px;
+    }
+
+
+
+
+
+
+                    .ServiceCarre1 h1{
+                        margin-top: 150px;
+    position: relative;
+    left: 41px;
+                    } .ServiceImage1{
+                        
+                        position: relative;
+                        height: 73px;
+                        bottom: 5cm;
+                        left: 4cm;
+                        width: 73px;
+                        background-image: url(service_icon_1.png);
+                        background-size: cover;
+                    }
+
+
+                    .ServiceCarre2 h1{
+                        margin-top: 150px;
+    position: relative;
+    left: 41px;
+                    }
+                    
+                    .ServiceImage2{
+                       
+                        position: relative;
+                        height: 73px;
+                        background-image: url(service_icon_2.png);
+                        background-size: cover;
+                        bottom: 5cm;
+                        left: 4cm;
+                        width: 73px;
+                    }
+
+
+
+                    
+                        .ServiceCarre3 h1{
+                            margin-top: 150px;
+                             position: relative;
+                                left: 3px;
+                        }
+                                        .ServiceImage3{
+                                            
+                                            position: relative;
+                                            height: 73px;
+                                            bottom: 5cm;
+                                            left: 4cm;
+                                            background-image: url(service_icon_3.png);
+                                            background-size: cover;
+                                            width: 73px;
+                                        }
+                    
+                                        .lignee{
+                                            position: relative;
+                                            height: 3px;
+                                            bottom: 54cm
+                                        }
+
+                                        .aenan{
+                                            background-color: white;
+                                            position: relative;
+                                            height: 405px;
+                                            bottom: 54.1cm;
+                                            left: 6cm;
+                                            width: 484px;
+                                        }   
+                                        .aenan h1{
+                                            position: relative;
+    left: 26px;
+                                        }
+                                           
+                                            .aenan p {
+                                               font-size: 21px;
+    margin-top: 43px;
+                                            }
+
+
+                                            .aenanCaree{
+                                                top: 12px;
+                                                left: 160px;
+                                                font-size: 21px;
+                                                position: relative;
+                                                color: white;
+                                                font-weight: bolder;
+                                                padding: 15px 10px;
+                                                /* height: 35px; */
+                                                background-color: blue;
+                                                width: 149px;
+                                                text-align: center;
+                                            }
+
+
+                                            .ut{
+                                                background-color: rgb(255, 255, 255);
+    position: relative;
+    height: 284px;
+    border-style: ridge;
+    bottom: 63.4cm;
+    left: 21cm;
+    width: 573px;
+    background-image: url(Screenshot\ 2023-09-26\ 095225.png);
+}
+                                            
+
+.videos{
+    background-color: rgb(247, 247, 248);
+    position: relative;
+    height: 511px;
+    width: 1520px;
+    width: 100%;
+    bottom: 2304px;
+}
+ .videos video {
+    width: 1520px;
+ }
+
+
+ .pricing{
+    position: relative;
+    top: 316px;
+    left: 114px
+ }
+
+
+
+.pricing h6
+{color: blue;
+    position: relative;
+    left: 14cm;
+    bottom: 60cm;
+    font-size: 30px;
+}
+    .pricing p {
+        font-size: 31px;
+    right: 112px;
+    bottom: 60cm;
+    position: relative;
+
+    }
+    
+    
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+    .pricingCaree1{
+        height: 458px;
+        width: 350px;
+        left: 2.3cm;
+        background: linear-gradient(rgb(68, 0, 255) 40% , rgb(255, 255, 255)20%);
+        position: relative;
+        border-style: double;
+        bottom: 58cm;
+    }
+           .pricingCaree1 div{
+            color: white;
+    margin-left: 69px;
+    font-size: 43px;
+           }
+
+
+              .pricingCaree1 li {
+                font-size: 23px;
+                position: relative;
+                list-style: none;
+                top: 52px;
+                margin-top: 7px;
+              }
+                         
+    .buy1 , .buy2, .buy3{
+    left: 31px;
+    top: 90px;
+    background-color: blue;
+    position: relative;
+    font-size: 30px;
+    color: white;
+    padding: 10px 20px;
+    }
+
+
+    .carte{
+        position: relative;
+        bottom: 72cm;
+        background-color: red;
+        height: 400px;
+        width: 1520px;
+    }
+
+   
+     
+
+    .pricingCaree2{
+        height: 458px;
+        border-style: double;
+    width: 350px;
+    left: 13.3cm;
+    background: linear-gradient(rgb(68, 0, 255) 40% , rgb(255, 255, 255)20%);
+    position: relative;
+    bottom: 70.3cm;
+    } 
+          .pricingCaree2 div {
+            color: white;
+            margin-left: 69px;
+            font-size: 43px;
+          }
+          .pricingCaree2 li {
+            font-size: 23px;
+            list-style: none;
+            position: relative;
+            top: 52px;
+            margin-top: 7px;
+          }
+
+
+
+
+
+
+
+
+
+
+
+    .pricingCaree3{
+        height: 458px;
+        width: 350px;
+        left: 24cm;
+        border-style: double;
+        background: linear-gradient(rgb(68, 0, 255) 40% , rgb(255, 255, 255)20%);
+        
+        position: relative;
+        bottom: 82.5cm;
+    }     
+                 .pricingCaree3  div{
+                     
+                        color: white;
+                        margin-left: 69px;
+                        font-size: 43px;
+                      
+                 }
+                 .pricingCaree3 li {
+                    font-size: 23px;
+                    position: relative;
+                    list-style: none;
+                    top: 52px;
+                    margin-top: 7px;
+                  }
+        
+
+
+
+
+
+
+footer{
+    background-color: #ffffff;
+    height: 714px;
+    top: 370px;
+    position: relative;
+    width: 1520px;
+}
+
+    .contact h3{
+        font-size: 33px;
+    top: 38px;
+    right: 24px;
+    position: relative;
+    text-align: center;
+    color: blue;
+    }
+
+        .contact p {
+            left: 14.2cm;
+    top: 38px;
+    position: relative;
+    font-size: 39px;
+        }
+        
+
+
+
+            .talk{
+                left: 17.2cm;
+    font-size: 27px;
+    top: 54px;
+    color: white;
+    background-color: #3939d6;
+    position: relative;
+    padding: 10px 35px;
+            }
+
+
+
+
+
+.FooterCaree{
+
+    display: flex;
+    FONT-WEIGHT: 500;
+    position: relative;
+    right: 55%;
+    justify-content: space-between;
+
+}
+
+
+
+
+.FooterCaree1{
+    background-color: rgb(255, 255, 255);
+    position: relative;
+    height: 411px;
+    width: 678px;
+    left: 23cm;
+}   
+     .Footerlogo {
+        position: relative;
+    top: 23px;
+    left: 2cm;
+    height: 51px;
+    border-style: groove;
+    width: 223px;
+    background-color: rgb(215 127 38 / 0%);
+    background-image: url(footer_logo.png);
+    background-size: cover;
+     }
+            .FooterCaree1 p{
+                top: 75px;
+    position: relative;
+    font-size: 29px;
+            }
+
+
+                                            .cercle{
+                                                position: relative;
+                                                 right: 52px;
+                                                 display: flex;
+                                            }
+
+                                            .cercle1{
+                                                left: 52px;
+                                                position: relative;
+                                                top: 119px;
+                                                background-color: orange;
+                                                height: 71px;
+                                                margin-right: 15px;
+                                                border-radius: 100px;
+                                                width: 67px;
+                                                background-image: url(facebook.jpg);
+                                                background-size:cover ;
+                                                
+                                            }
+                                            .cercle2{
+                                                left: 52px;
+                                                position: relative;
+                                                top: 119px;
+                                                background-color: orange;
+                                                height: 71px;
+                                                margin-right: 15px;
+                                                border-radius: 100px;
+                                                width: 67px;
+                                                background-image: url(twitter.png);
+                                                background-size:cover ;
+                                                
+                                            }
+
+                                            .cercle3{
+                                                left: 52px;
+                                                position: relative;
+                                                top: 119px;
+                                                margin-right: 15px;
+                                                background-color: orange;
+                                                height: 71px;
+                                                border-radius: 100px;
+                                                width: 67px;
+                                                background-image: url(insta.jpg);
+                                                background-size:cover ;
+                                                
+                                            }
+
+                                            .cercle4{
+                                                left: 52px;
+                                                position: relative;
+                                                margin-right: 15px;
+                                                top: 119px;
+                                                background-color: orange;
+                                                height: 71px;
+                                                border-radius: 100px;
+                                                width: 67px;
+                                                background-image: url(whatsapp.jpg);
+                                                background-size:cover ;
+                                                
+                                            }
+                                            .cercle5{
+                                                left: 52px;
+                                                margin-right: 15px;
+                                                position: relative;
+                                                top: 119px;
+                                                background-color: orange;
+                                                height: 71px;
+                                                border-radius: 100px;
+                                                width: 67px;
+                                                background-image: url(behance.png);
+                                                background-size: cover;
+                                                
+                                            }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+          .FooterCaree3{
+            background-color: rgb(255, 255, 255);
+    position: relative;
+    height: 432px;
+    border-style: ridge;
+    width: 592px;
+    left: 23cm;
+          }
+                   .FooterCaree3 h2{
+                    position: relative;
+                              top: 31px;
+                      text-align: center;
+                     font-size: 37px;
+                   }
+                    .FooterCaree3 ul{
+                        position: relative;
+                        top: 87px;
+                        left: 135px;
+                        font-size: 23px;
+                        list-style-type: square;
+                        
+                    }
+
+
+
+
+
+
+       
+
+           .FooterCaree4 {
+            background-color: rgb(255, 255, 255);
+            position: relative;
+            height: 432px;
+            text-align: center;
+            width: 555px;
+            border-style: ridge;
+            left: 22.2cm;
+            padding-right: 8px;
+           }
+               .FooterCaree4 h3
+               {
+                position: relative;
+    font-size: 39px;
+    top: 29px;
+    margin-bottom: 66px;
+                }
+               
+
+                .FooterCaree4 p{
+                    font-size: 29px;
+    top: 25px;
+    position: relative;
+                }
+
+                  .FooterCaree4 span{
+                    position: relative;
+                    top: 46px;
+                    font-size: 30px;
+                  }
+
+                  .copyright{
+                    background-color: #d0d8d0;
+    height: 102px;
+    top: 375px;
+    
+    font-size: 27px;
+    text-align: center;
+    position: relative;
+    width: 1520px;
+                  }
